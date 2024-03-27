@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\C e C\u002B\u002B\\CalcOpMat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E08507AB-1832-4C23-9C03-068399E97FB8}|ConsoleApp\\ConsoleApp.vcxproj|D:\\Projetos\\C e C\u002B\u002B\\CalcOpMat\\ConsoleApp\\ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E08507AB-1832-4C23-9C03-068399E97FB8}|ConsoleApp\\ConsoleApp.vcxproj|solutionrelative:ConsoleApp\\ConsoleApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp.cpp",
+              "DocumentMoniker": "D:\\Projetos\\C e C\u002B\u002B\\CalcOpMat\\ConsoleApp\\ConsoleApp.cpp",
+              "RelativeDocumentMoniker": "ConsoleApp\\ConsoleApp.cpp",
+              "ToolTip": "D:\\Projetos\\C e C\u002B\u002B\\CalcOpMat\\ConsoleApp\\ConsoleApp.cpp",
+              "RelativeToolTip": "ConsoleApp\\ConsoleApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T14:39:41.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
